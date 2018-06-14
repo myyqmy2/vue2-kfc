@@ -21,7 +21,7 @@
 >轮播使用vue-awesome-swiper插件,滚动列表使用better-scroll插件  
 
 项目演示地址: [zyuyu.cn](http://zyuyu.cn) (请用手机模式查看)  
-博客文章地址: (写完会放上来)  
+博客文章地址: [文章地址](https://myyqmy2.github.io/2018/06/14/vue2-kfc.html)
 联系邮箱: myyqmy2@gmail.com  
 
 有问题或代码建议可以给我发邮件,对你有帮助的话可以给个星鼓励一下哦!  
